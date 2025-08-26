@@ -52,5 +52,9 @@ class NotifyConverter(NotifyEntity):
         )
 
     @property
+    def name(self) -> str:
+        return self._name
+
+    @property
     def unique_id(self) -> str:
         return self._name

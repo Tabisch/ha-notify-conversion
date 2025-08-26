@@ -1,12 +1,14 @@
 {
-    "domain": "ha-notify-conversion",
-    "name": "ha-notify-conversion",
-    "codeowners": [
-        "@tabisch"
-    ],
-    "documentation": "https://github.com/Tabisch/ha-notify-conversion",
-    "iot_class": "assumed_state",
-    "issue_tracker": "https://github.com/Tabisch/ha-notify-conversion",
-    "config_flow": true,
-    "version": "0.1"
+  "domain": "ha-notify-conversion",
+  "name": "ha-notify-conversion",
+  "codeowners": [
+    "@Tabisch"
+  ],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/Tabisch/ha-notify-conversion",
+  "issue_tracker": "https://github.com/Tabisch/ha-notify-conversion/issues",
+  "integration_type": "helper",
+  "requirements": [],
+  "version": "0.0.1"
 }
