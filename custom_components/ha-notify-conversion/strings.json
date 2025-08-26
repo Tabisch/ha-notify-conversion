@@ -1,0 +1,13 @@
+{
+    "config": {
+        "step": {
+            "user": {
+                "description": "Select entity",
+                "title": "Select entity",
+                "data": {
+                    "entities": "notifyServiceName"
+                }
+            }
+        }
+    }
+}

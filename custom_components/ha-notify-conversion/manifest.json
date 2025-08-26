@@ -1,0 +1,12 @@
+{
+    "domain": "ha-notify-conversion",
+    "name": "ha-notify-conversion",
+    "codeowners": [
+        "@tabisch"
+    ],
+    "documentation": "https://github.com/Tabisch/ha-notify-conversion",
+    "iot_class": "assumed_state",
+    "issue_tracker": "https://github.com/Tabisch/ha-notify-conversion",
+    "config_flow": true,
+    "version": "0.1"
+}
